@@ -1,0 +1,15 @@
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\bin\Debug\net48\Gavrilov_PhotoCenterRegistration.exe.config
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\bin\Debug\net48\Gavrilov_PhotoCenterRegistration.exe
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\bin\Debug\net48\Gavrilov_PhotoCenterRegistration.pdb
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\bin\Debug\net48\PasswordHashing.dll
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\bin\Debug\net48\PasswordHashing.pdb
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.csproj.AssemblyReference.cache
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.AssemblyInfoInputs.cache
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.AssemblyInfo.cs
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.sourcelink.json
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov.6AD179E3.Up2Date
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.exe
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.pdb
+C:\Users\gavri\Downloads\PhotoCenterRegistration\Gavrilov_PhotoCenterRegistration\obj\Debug\net48\Gavrilov_PhotoCenterRegistration.exe.config
